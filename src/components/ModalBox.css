@@ -1,0 +1,7 @@
+.modal-dialog {
+  position: fixed;
+  margin: auto;
+  width: 33vw;
+  height: 100%;
+  right: 0px;
+}
